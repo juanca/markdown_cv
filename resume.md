@@ -1,8 +1,8 @@
 # caleb miles
 
-caselim@gmail.com
-1.909.542.8717
-San Francisco, CA
+caselim@gmail.com  
+1.909.542.8717  
+San Francisco, CA  
 
 ## Overview
 I am a graduate of Claremont McKenna College where I obtained a dual degree in Physics and Mathematics.
@@ -17,7 +17,7 @@ It is my goal to work on exceptionally challenging computational problems in app
 
 ## Industry Experience
 
-### Pivotal Software, San Francisco CA
+### Pivotal Software, San Francisco CA  
 #### Software Engineer, September 2013 to present.\
 
 Developer of BOSH: an open source tool for orchestrating stable deployments of software to unstable cloud
@@ -26,7 +26,7 @@ image creation to client server interactions between a Ruby CLI, a RESTful Ruby 
 agent for the director which resides on virtutal machine images. Pivotal is a TDD pair programming shop where
 engineers tend to wear a lot of technical hats beyond simply shipping stories, such as regular rotations
 as front line open source community managers and production support engineers.
-   
+
 
 ### inktank, Los Angeles CA
 #### Software Developer - October 2012 to April 2013.\
@@ -37,19 +37,16 @@ Swift API calls.
  * Exposed a RESTful API for user, bucket, and object management of the Rados Gateway.
  * Supported Professional Services staff in customer assistance.
  * Authored API specification documentation.
- * Performed refactoring of existing CLI administration tools to support the creation of  RESTful interface.
- * Reviewed community submitted patches.
- * Performed statistical analysis on proposed patches to the CRUSH algorithm using Numpy/SciPy.
+ * Helped unify the implementation of the RESTful administrative interface and the existing CLI.
+ * Provided code review for community submitted patches.
 
 ### inktank, Los Angeles CA
 #### Development Intern - May 2012 to September 2012.\
 
 Performed experimental algorithm analysis. Developed software in response to feature requests and bug reports in collaboration with lead developers. 
 
- * Implemented portions of the S3 API for the RADOS gateway.
- * Created new functionality in the RADOS gateway administrator program.
+ * Implemented portions of the S3 API for the RADOS gateway in C++.
  * Performed statistical analysis of the CRUSH algorithm using R and NumPy/SciPy.
- * Amended man pages and unit tests to document new functionality.
 
 ## Research Experience
 
