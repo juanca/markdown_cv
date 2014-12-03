@@ -65,6 +65,17 @@ Distinguished Diploma from Cathedral High School. El Paso, Texas. Graduated in M
 
 ## Activities
 
+#### *Volunteer Research Assistant*, Kravis Leadership Institute
+##### October 2011 to May 2012, 3 hours per week
+
+ * Participated in further developing research criteria
+ * Collaborated with other research assistants
+
+#### *President*, The Physics Club of the Claremont Colleges
+##### September 2009 to May 2011, 3 hours per week
+
+ * Managed club details and meetings
+ * Promoted hands-on application of physics theories through student-run events
 
 ### Interests
 
