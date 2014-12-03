@@ -20,7 +20,7 @@ In the process, I started an Engineering curriculum and almost finished a Comput
 ## Industry Experience
 
 ### Mavenlink, San Francisco CA
-#### Software Engineer, June 2013 to present.\
+#### *Software Engineer*, June 2013 to present.\
 
 Mavenlink is a test-focused development pair programming shop where engineers have the opportunity to improve their
 technical hats beyond their comfort zones, such as regular rotations as production support engineers and devops
@@ -31,7 +31,7 @@ facets to the application
  * Backbone and Marionette client application
 
 ### Mavenlink, San Francisco CA
-#### Development Intern - June 2012 to August 2012.\
+#### *Development Intern*, June 2012 to August 2012.\
 
  * Full stack engineering responsibilities
  * Designed and implemented new features for Mavenlink's desktop and mobile websites
@@ -39,11 +39,23 @@ facets to the application
  * Collaborated in the implementation of a web analytics system
 
 ### Mavenlink, Claremont CA
-#### Team Member - October 2011 to May 2012.\
+#### *Team Member*, October 2011 to May 2012.\
 
  * Collaborated in prototyping a referral network
  * Implemented cluster algorithms with proprietary trust things (fixme)
  * Prototype stack: Ruby on Rails, HTML, Javascript, and MySQL
+
+### Lowe Institute of Political Economy, Claremont McKenna College
+#### *Research and Programmer Analyst*, November 2012 to December 2012.\
+
+ * Designed a web scraper to download datasets for a current faculty research project
+ * Implemented prototype in Ruby and a MySQL database
+
+### Student Technology Assistance Team, Claremont McKenna College
+#### *Lab Technology Assistant*, September 2010 to May 2013.\
+
+ * Solved students' computer and technology problems, including troubleshooting software, hardware, and network issues
+ * Conducted coaching sessions in MATLAB, STATA, and Java
 
 # Academics
 Bachelor of Arts in Economics from Claremont McKenna College. Sequence (minor) in Computer Science. Graduated in May 2013.
@@ -53,10 +65,6 @@ Distinguished Diploma from Cathedral High School. El Paso, Texas. Graduated in M
 
 ## Activities
 
-### Lowe Institute of Political Economy, Claremont McKenna College
-
-
-### Student Technology Assistance Team, Claremont McKenna College
 
 ### Interests
 
