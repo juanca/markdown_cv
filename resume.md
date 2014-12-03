@@ -81,4 +81,5 @@ Distinguished Diploma from Cathedral High School. El Paso, Texas. Graduated in M
 
 
 ### Awards
-
+*Gates Millennium Scholarship Award* - Gates Millennium Scholars Progrem, September 2008 to present.
+*Statistics Prize for the Academic Year* - Claremont McKenna College Statistics Competition, September 2009 to May 2010.
