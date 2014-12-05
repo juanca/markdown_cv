@@ -15,16 +15,16 @@ After studying economics, business, and the sciences, these major influences nur
 
 * Languages:
     Ruby,
-    SQL,
     Javascript/Coffeescript,
     HTML,
+    SQL,
     C/C++,
+    MATLAB,
     Haskell,
     SystemVerilog,
+    Labview,
     Racket,
     Prolog,
-    Labview,
-    MATLAB,
     LateX
 * Frameworks:
     Ruby on Rails,
