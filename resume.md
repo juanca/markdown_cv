@@ -11,11 +11,34 @@ In the process, I started an Engineering curriculum and almost finished a Comput
 
 ### Technical Skills
 
-* Languages: Ruby, SQL, Javascript/Coffeescript, C/C++, Haskell, SystemVerilog
-* Frameworks: Ruby on Rails, Backbone, Marionette
-* Software: MATLAB, STATA, SolidWorks, ModelSim, Quartus 2
-* [CV] General Applications:
-* Version Control: Git, Subversion
+* Languages:
+    Ruby,
+    SQL,
+    Javascript/Coffeescript,
+    HTML,
+    C/C++,
+    Haskell,
+    SystemVerilog,
+    Racket,
+    Prolog,
+    Labview,
+    MATLAB,
+    LateX
+* Frameworks:
+    Ruby on Rails,
+    Backbone,
+    Marionette
+* Software:
+    STATA,
+    SolidWorks,
+    ModelSim,
+    Quartus 2
+* Applications:
+    Microsoft Office Suite
+* Version Control Systems:
+    Git,
+    Subversion
+* Languages: English, Spanish
 
 ## Industry Experience
 
