@@ -7,6 +7,8 @@ San Francisco, CA
 ## Overview
 I am a graduate of Claremont McKenna College where I obtained a degree in Economics.
 In the process, I started an Engineering curriculum and almost finished a Computer Science curriculum.
+Drawing and technology enthralled my life as a teenager.
+After studying economics, business, and the sciences, these major influences nurtured my goals into entrepreneurship.
 
 
 ### Technical Skills
