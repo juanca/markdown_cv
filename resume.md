@@ -82,9 +82,9 @@ facets to the application
  * Conducted coaching sessions in MATLAB, STATA, and Java
 
 # Academics
-Bachelor of Arts in Economics from Claremont McKenna College. Sequence (minor) in Computer Science. Graduated in May 2013.
-Junior Scholars Program at the University of Texas at El Paso. September 2007 to May 2008.
-Early Admissions Program at the El Paso Community College. September 2006 to May 2008.
+Bachelor of Arts in Economics from Claremont McKenna College. Sequence (minor) in Computer Science. Graduated in May 2013.  
+Junior Scholars Program at the University of Texas at El Paso. September 2007 to May 2008.  
+Early Admissions Program at the El Paso Community College. September 2006 to May 2008.  
 Distinguished Diploma from Cathedral High School. El Paso, Texas. Graduated in May 2008.
 
 ## Activities
