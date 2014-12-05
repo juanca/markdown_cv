@@ -32,8 +32,7 @@ In the process, I started an Engineering curriculum and almost finished a Comput
     STATA,
     SolidWorks,
     ModelSim,
-    Quartus 2
-* Applications:
+    Quartus 2,
     Microsoft Office Suite
 * Version Control Systems:
     Git,
