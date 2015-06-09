@@ -49,10 +49,11 @@ After studying economics, business, and the sciences, these major influences nur
 Mavenlink is a test-focused development pair programming shop where engineers have the opportunity to improve their
 technical hats beyond their comfort zones, such as regular rotations as production support engineers and devops
 engineers. As a full stack engineer, I have been responsible for architecturing and iterating on a wide variety of
-facets to the application
+facets to the application: e.g. API development, UX design, SQL optimizations
 
  * Ruby on Rails server application
  * Backbone and Marionette client application
+ * ExtJS client application
 
 ### Mavenlink, San Francisco CA
 #### *Development Intern*, June 2012 to August 2012.\
