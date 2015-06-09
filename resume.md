@@ -67,8 +67,8 @@ facets to the application: e.g. API development, UX design, SQL optimizations
 #### *Team Member*, October 2011 to May 2012.\
 
  * Collaborated in prototyping a referral network
- * Implemented cluster algorithms with proprietary trust things (fixme)
- * Prototype stack: Ruby on Rails, HTML, Javascript, and MySQL
+ * Implemented cluster algorithms with a proprietary hybrid trust model
+ * Prototype stack: Ruby on Rails, HTML, Javascript, and MySQL, Redis
 
 ### Lowe Institute of Political Economy, Claremont McKenna College
 #### *Research and Programmer Analyst*, November 2012 to December 2012.\
