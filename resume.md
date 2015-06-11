@@ -1,7 +1,5 @@
 # juan carlos medina
 
-juanca.med@gmail.com
-915.727.4983
 San Francisco, CA
 
 ## Overview
