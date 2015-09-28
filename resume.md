@@ -5,7 +5,6 @@ San Francisco, CA
 ## Overview
 I am a graduate of Claremont McKenna College where I obtained a degree in Economics.
 In the process, I started an Engineering curriculum and almost finished a Computer Science curriculum.
-Drawing and technology enthralled my life as a teenager.
 After studying economics, business, and the sciences, these major influences nurtured my goals into entrepreneurship.
 
 
@@ -42,7 +41,7 @@ After studying economics, business, and the sciences, these major influences nur
 ## Industry Experience
 
 ### Mavenlink, San Francisco CA
-#### *Software Engineer*, June 2013 to present.\
+#### *Senior Software Engineer*, June 2013 to present.\
 
 Mavenlink is a test-focused development pair programming shop where engineers have the opportunity to improve their
 technical hats beyond their comfort zones, such as regular rotations as production support engineers and devops
@@ -50,7 +49,7 @@ engineers. As a full stack engineer, I have been responsible for architecturing 
 facets to the application: e.g. API development, UX design, SQL optimizations
 
  * Ruby on Rails server application
- * Backbone and Marionette client application
+ * Backbone and Marionette client applications
  * ExtJS client application
 
 ### Mavenlink, San Francisco CA
