@@ -1,4 +1,10 @@
-A repository to hold my CV in easily editable text and PDF formats
+A repository to hold my CV in easily editable text (which is exportable to PDF formats).
 
-Miscellaneous:
+# Other relevant links:
 - http://www.codewars.com/users/juanca
+
+## Generating a PDF:
+
+```
+Markdown -> HTML -> Save as PDF (adjust scale)
+```
