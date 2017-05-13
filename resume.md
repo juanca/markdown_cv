@@ -10,10 +10,13 @@ After studying economics, business, and the sciences, these major influences nur
 
 ### Technical Skills
 
-* Languages:
+* Programming Languages:
     Ruby,
-    Javascript/Coffeescript,
+    Javascript (ES5, ES6),
+    Coffeescript,
     HTML,
+    CSS,
+    SASS,
     SQL,
     C/C++,
     MATLAB,
@@ -26,7 +29,9 @@ After studying economics, business, and the sciences, these major influences nur
 * Frameworks:
     Ruby on Rails,
     Backbone,
-    Marionette
+    Marionette,
+    React,
+    Redux
 * Software:
     STATA,
     SolidWorks,
@@ -41,16 +46,15 @@ After studying economics, business, and the sciences, these major influences nur
 ## Industry Experience
 
 ### Mavenlink, San Francisco CA
-#### *Senior Software Engineer*, June 2013 to present.\
+#### *Principal Software Engineer*, June 2013 to present.\
 
 Mavenlink is a test-focused development pair programming shop where engineers have the opportunity to improve their
 technical hats beyond their comfort zones, such as regular rotations as production support engineers and devops
-engineers. As a full stack engineer, I have been responsible for architecturing and iterating on a wide variety of
+engineers. As a full stack engineer, I have been responsible for architecting and iterating on a wide variety of
 facets to the application: e.g. API development, UX design, SQL optimizations
 
  * Ruby on Rails server application
- * Backbone and Marionette client applications
- * ExtJS client application
+ * React, Backbone, Marionette, and ExtJS client applications
 
 ### Mavenlink, San Francisco CA
 #### *Development Intern*, June 2012 to August 2012.\
