@@ -56,6 +56,7 @@ engineers. As a full stack engineer, I have been responsible for architecting an
 facets to the application: e.g. API development, UX design, SQL optimizations
 
  * Ruby on Rails server application
+ * Modularized assets: Sprockets bundling to Webpack bundling
  * React, Backbone, Marionette, and ExtJS client applications
 
 ### Mavenlink, San Francisco CA
