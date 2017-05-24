@@ -1,6 +1,8 @@
 # juan carlos medina
 
-San Francisco, CA
+915 727 4983
+San Francisco, CA.
+https://github.com/juanca
 
 ## Overview
 
